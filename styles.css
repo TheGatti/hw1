@@ -1,3 +1,46 @@
+.top {
+  text-align: center;
+}
+h1, h2, h3 {
+  font-family: cursive;
+}
 body {
-  background-color: orange
+  background-color: #003B48;
+  color: #708090;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+a:link {
+  color:black
+}
+a:hover {
+  text-decoration:underline;
+}
+.stripes div{
+  width:40px;
+  height: 600px;
+  float: right;
+  }
+.black {
+  background-color: black;
+}
+.silver {
+  background-color: silver;
+}
+.left {
+  float: left;
+}
+.stripes {
+  float: right;
+}
+
+/*div {
+  width:40px;
+  height:1000px;
+  position: absolute;
+  border-radius: 5px;
+  background-color: black;
+
 }
